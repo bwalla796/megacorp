@@ -1,6 +1,4 @@
-
 partner list
 SalesInc
-
-
 TheStartup
+ClosedML
